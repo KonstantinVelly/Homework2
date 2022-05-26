@@ -1,0 +1,7 @@
+#Ignoging files here
+tmp/
+/tmp/
+thubms.db
+.dbstore
+*.*_old
+*.*_backup
