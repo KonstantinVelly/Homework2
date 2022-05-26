@@ -2,6 +2,6 @@
 tmp/
 /tmp/
 thubms.db
-.dbstore
+.ds_store
 *.*_old
 *.*_backup
