@@ -1,7 +1,7 @@
 #Ignoging files here
 tmp/
 /tmp/
-thubms.db
+thumbs.db
 .ds_store
 *.*_old
 *.*_backup
